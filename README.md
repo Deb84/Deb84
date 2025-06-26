@@ -22,7 +22,7 @@ I've been interested in computer science since I was a child.
 
 ## Creative
 [![Static Badge](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Premiere%20Pro)](https://www.adobe.com/fr/products/premiere.html)
-[![Static Badge](https://img.shields.io/badge/After%20Effetcs-00005b?style=for-the-badge&logo=After%20Effetcs)](https://www.adobe.com/fr/products/aftereffects.html)
+[![Static Badge](https://img.shields.io/badge/After%20Effects-00005b?style=for-the-badge&logo=After%20Effects)](https://www.adobe.com/fr/products/aftereffects.html)
 
 ## Others
 [![Static Badge](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/)
