@@ -8,12 +8,11 @@ I've been interested in computer science since I was a child.
  - <a href="https://miwa.lol/deb" target="_blank" rel="noopener noreferrer">Socials</a>
 
 ## Language
-[![Static Badge](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=Roblox)
-](https://luau.org/)
+[![Static Badge](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=Roblox)](https://luau.org/)
 <br>
-[![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python)
-](https://www.python.org/)
-
+[![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python)](https://www.python.org/)
+<br>
+[![Static Badge](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=Javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Projects
