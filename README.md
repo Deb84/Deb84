@@ -11,7 +11,7 @@ I've been interested in computer science since I was a child.
 [![Luau](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=Roblox)](https://luau.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python)](https://www.python.org/)
 
-# Tools
+## Tools
 
 ### IDE
 ![VSC](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code)
