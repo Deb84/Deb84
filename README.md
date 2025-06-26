@@ -21,6 +21,8 @@ I've been interested in computer science since I was a child.
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-050505?style=for-the-badge&logo=Roblox%20Studio&logoColor=white)](https://create.roblox.com/landing)
 
 ## Creative
+![FL Studio](https://img.shields.io/badge/FL%20Studio-1EC173?style=for-the-badge&logo=FL%20Studio&logoSize=fl%20studio)
+<br>
 [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Premiere%20Pro)](https://www.adobe.com/fr/products/premiere.html)
 [![After Effects](https://img.shields.io/badge/After%20Effects-00005b?style=for-the-badge&logo=After%20Effects)](https://www.adobe.com/fr/products/aftereffects.html)
 
