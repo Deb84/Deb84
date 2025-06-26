@@ -5,7 +5,7 @@ I've been interested in computer science since I was a child.
 
 **Links** :
  - [My Hardware](Hardware.md) 
- - <a href="miwa.lol/deb" target="_blank" rel="noopener noreferrer">Socials</a>
+ - <a href="https://miwa.lol/deb" target="_blank" rel="noopener noreferrer">Socials</a>
 
 ## Projects
 
