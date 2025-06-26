@@ -22,10 +22,12 @@ I've been interested in computer science since I was a child.
 
 ## Creative
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-1EC173?style=for-the-badge&logo=FL%20Studio&logoSize=fl%20studio)
-<br>
 [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Premiere%20Pro)](https://www.adobe.com/fr/products/premiere.html)
-[![After Effects](https://img.shields.io/badge/After%20Effects-00005b?style=for-the-badge&logo=After%20Effects)](https://www.adobe.com/fr/products/aftereffects.html)
 
 ## Others
 [![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-8B5CF6?style=for-the-badge&logo=obsidian)](https://obsidian.md/)
+
+## Learning
+[![After Effects](https://img.shields.io/badge/After%20Effects-00005b?style=for-the-badge&logo=After%20Effects)](https://www.adobe.com/fr/products/aftereffects.html)
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
