@@ -14,10 +14,20 @@ I've been interested in computer science since I was a child.
 <br>
 [![Static Badge](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=Javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
-## Projects
-
-
 # Softwares
 ## IDE
+![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code)
+<br>
+[![Static Badge](https://img.shields.io/badge/Roblox%20Studio-050505?style=for-the-badge&logo=Roblox%20Studio&logoColor=white)](https://create.roblox.com/landing)
 
+## Game engine
+[![Static Badge](https://img.shields.io/badge/Roblox%20Studio-050505?style=for-the-badge&logo=Roblox%20Studio&logoColor=white)](https://create.roblox.com/landing)
+
+## Creative
+[![Static Badge](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Premiere%20Pro)](https://www.adobe.com/fr/products/premiere.html)
+<br>
+[![Static Badge](https://img.shields.io/badge/After%20Effetcs-00005b?style=for-the-badge&logo=After%20Effetcs)](https://www.adobe.com/fr/products/aftereffects.html)
+
+## Others
+[![Static Badge](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/)
+[![Static Badge](https://img.shields.io/badge/Obsidian-8B5CF6?style=for-the-badge&logo=obsidian)](https://obsidian.md/)
