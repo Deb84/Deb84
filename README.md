@@ -10,7 +10,6 @@ I've been interested in computer science since I was a child.
 ## Language
 [![Luau](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=Roblox)](https://luau.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=Javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Softwares
 ## IDE
