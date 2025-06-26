@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Deb, a french developper and an artist
+I'm 19, started developping at 13 and creating art at 17.
+<br>
+I've been interested in computer science since I was a child.
 
-<!--
-**Deb84/Deb84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Links** :
+ - [My Hardware](Hardware.md) 
+ - <a href="miwa.lol/deb" target="_blank" rel="noopener noreferrer">Socials</a>
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 
