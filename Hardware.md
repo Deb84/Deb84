@@ -14,5 +14,5 @@
 ## Second PC
 I will use it for a NAS soon
 - CPU: i7 4770K
-- GPU: GTX 760Ti
+- GPU: GTX 760
 - RAM: 8GB DDR3
