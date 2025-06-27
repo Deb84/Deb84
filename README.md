@@ -5,7 +5,7 @@ I've been interested in computer science since I was a child.
 
 **Links** :
  - [My Hardware](Hardware.md) 
- - <a href="https://miwa.lol/deb" target="_blank" rel="noopener noreferrer">Socials</a>
+ - [Socials](https://miwa.lol/deb)
 
 ## Languages
 [![Luau](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=Roblox)](https://luau.org/)
