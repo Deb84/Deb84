@@ -14,7 +14,7 @@ I've been interested in computer science since I was a child.
 ## Tools
 
 ### IDE
-![VSC](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code)
+[![VSC](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-050505?style=for-the-badge&logo=Roblox%20Studio&logoColor=white)](https://create.roblox.com/landing)
 
 ### Game engines
