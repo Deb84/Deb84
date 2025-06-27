@@ -1,5 +1,5 @@
 ## Hi I'm Deb, a french developer & artist
-I'm 19, started developing at 13 and creating art at 17 .
+I'm 19, started developing at 13 and creating art at 17.
 <br>
 I've been interested in computer science since I was a child.
 
