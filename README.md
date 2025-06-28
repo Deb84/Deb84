@@ -32,3 +32,8 @@ I've been interested in computer science since I was a child.
 [![After Effects](https://img.shields.io/badge/After%20Effects-00005b?style=for-the-badge&logo=After%20Effects)](https://www.adobe.com/fr/products/aftereffects.html)
 [![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
+
+---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb84&layout=compact&theme=transparent"/>
+</a>
