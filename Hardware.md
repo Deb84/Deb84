@@ -16,6 +16,6 @@
 - CPU: i7 4770K
 - GPU: GTX 760 (not used for now)
 - RAM: 8GB DDR3
-- - Storage:
+-  Storage:
   - Samsung 870 QVO 1TB
   - Crucial MX500 500GB
