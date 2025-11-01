@@ -1,8 +1,8 @@
 # This is my hardware
 ## Main PC
 - OS: Windows 11
-- CPU: I5 10600K
-- GPU: RTX 3070
+- CPU: i5 10600K
+- GPU: NVIDIA RTX 3070
 - RAM: 32GB (4x8GB) DDR4
 - Storage:
   - Samsung 990 Pro 4TB
