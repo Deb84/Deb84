@@ -1,6 +1,6 @@
 # This is my hardware
 ## Main PC
-- OS: Windows 10
+- OS: Windows 11
 - CPU: I5 10600K
 - GPU: RTX 3070
 - RAM: 32GB (4x8GB) DDR4
