@@ -12,6 +12,9 @@
 ## Others
 [![Static Badge](https://img.shields.io/badge/Dotenv-%23303030?style=for-the-badge&logo=dotenv&logoColor=%23F7DF1E)](https://www.dotenv.org/)
 
+### Learning
+[![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)](https://mermaid.js.org/)
+
 ## Other Languages
 [![Static Badge](https://img.shields.io/badge/JSON-303030?style=for-the-badge&logo=json)](https://www.json.org/)
 
