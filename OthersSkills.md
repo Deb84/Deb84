@@ -9,6 +9,7 @@
 
 ## Runtimes
 [![Node.js](https://img.shields.io/badge/Node.js-202020?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)](https://nodejs.org/en)
+[![Static Badge](https://img.shields.io/badge/ts--node-%233178C6?style=for-the-badge&logo=tsnode&logoColor=white)](https://github.com/TypeStrong/ts-node)
 
 ## Others
 [![Dotenv](https://img.shields.io/badge/Dotenv-%23303030?style=for-the-badge&logo=dotenv&logoColor=%23F7DF1E)](https://www.dotenv.org/)
@@ -18,5 +19,9 @@
 
 ## Other Languages
 [![JSON](https://img.shields.io/badge/JSON-303030?style=for-the-badge&logo=json)](https://www.json.org/)
+
+
+## I am interested in
+[![Static Badge](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://www.ffmpeg.org/)
 
 
