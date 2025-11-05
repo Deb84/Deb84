@@ -5,6 +5,7 @@
 
 ### Learning
 [![Static Badge](https://img.shields.io/badge/React-303030?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ## Runtimes
 [![Node.js](https://img.shields.io/badge/Node.js-202020?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)](https://nodejs.org/en)
