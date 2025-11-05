@@ -6,7 +6,7 @@ I've been interested in computer science since I was a child.
 **Links** :
  - [My Hardware](Hardware.md) 
  - [Socials](https://miwa.lol/deb)
- - [Libs, frameworks and others](Libs&Frameworks.md)
+ - [Libs, frameworks and others](OthersSkills.md)
 
 ## Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=for-the-badge&logo=typescript&logoColor=%233178C6)](https://www.typescriptlang.org/)
