@@ -1,4 +1,4 @@
-# This is my hardware
+# My hardware
 ## Main PC
 - OS: Windows 11
 - CPU: i5 10600K
